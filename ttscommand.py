@@ -26,7 +26,7 @@ def wishme():
         speak("Good Evening")
 
 
-    speak("I an Dummy Sir,please let me know how can i help you?")
+    speak("I am your assistant Sir,please let me know how can i help you?")
 if __name__ == '__main__':
     wishme()
 
